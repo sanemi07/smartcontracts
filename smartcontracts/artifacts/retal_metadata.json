@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.25+commit.b61c2a91"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"smartcontracts/rentalaggrement.sol": "retal"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"smartcontracts/rentalaggrement.sol": {
+			"keccak256": "0x81089ee6a27ae0c3c8160bb652a3ad7e6cd2e4fb186b33a2d25305f021b57269",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://b1ccd7d2b8b78b4424460d18f538ecd80e82183b28ca52d230d5599e5a42e14b",
+				"dweb:/ipfs/QmZF1rTGh1m59jvSivfBWU6fwrM94bqcUGwoJHonczDk9i"
+			]
+		}
+	},
+	"version": 1
+}
